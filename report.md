@@ -2,9 +2,9 @@
 Дата начала: 02.03.2021 - Дата окончания: 02.03.2021
 
 Было проведено:
--  тестирование установки** OpenJDK 11 на Windows 10 (64 bit)
--  тестирование совместимости** приложения KeyValidator, с Java 11
--  функциональное тестирование** приложения KeyValidator, на соответствие [руководству использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md "руководству использования")
+-  тестирование установки OpenJDK 11 на Windows 10 (64 bit)
+-  тестирование совместимости приложения KeyValidator, с Java 11
+-  функциональное тестирование приложения KeyValidator, на соответствие [руководству использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md "руководству использования")
 
 
 На тестирование затрачено:  10 минут
@@ -21,7 +21,7 @@
 - Отчёт о тестировании
 - Баг репорт
 
-В качестве тестовых данных использовались данные из [Руководство использования KeyValidator](http://https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md "Руководство использования KeyValidator") и [Инструкция по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md "Инструкция по установке OpenJDK11")
+В качестве тестовых данных использовались данные из [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md "Руководство использования KeyValidator") и [Инструкция по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md "Инструкция по установке OpenJDK11")
 
 **Валидные ключи:**
 
